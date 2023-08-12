@@ -1,0 +1,10 @@
+@use '../01-settings/' as *;
+@use '../02-tools' as *;
+
+.site-body {
+    &__social {
+        position: fixed;
+        left: -135px;
+        bottom: 20%;
+    }
+}

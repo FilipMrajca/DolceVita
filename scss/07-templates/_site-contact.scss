@@ -2,7 +2,7 @@
 @use '../02-tools' as *;
 
 .site-contact {
-    background: url('../../assets/img/contact.jpeg') center/cover fixed;
+    background: url('../assets/img/contact.jpeg') center/cover fixed;
     color: $color-white;
     position: relative;
     min-height: 85vh;
